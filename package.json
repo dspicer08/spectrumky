@@ -1,0 +1,15 @@
+{
+  "name": "spectrumky",
+  "version": "1.0.0",
+  "description": "Spectrum Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-requirejs": "^1.0.0"
+  }
+}
