@@ -1,0 +1,13 @@
+{
+  "require": {
+    "twilio/sdk": "^5.4",
+    "stripe/stripe-php": "^4.0",
+    "facebook/graph-sdk" : "~5.0",
+    "abraham/twitteroauth": "^0.6.4"
+  },
+  "autoload": {
+    "files": [
+      "vendor/printful/PrintfulClient.php"
+    ]
+  }
+}
