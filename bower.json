@@ -1,0 +1,18 @@
+{
+  "name": "spectrumky",
+  "authors": [
+    "dspicer08 <dustinspicer90@gmail.com>"
+  ],
+  "description": "Spectrum Website",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
